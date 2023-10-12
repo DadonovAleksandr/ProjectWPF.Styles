@@ -4,6 +4,10 @@
     <TargetFramework>net7.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>ProjectWPF.Library.Styles</Title>
+    <Description>Библиотека стилей для проектов WPF</Description>
+    <Copyright>MIT</Copyright>
   </PropertyGroup>
 
 </Project>
