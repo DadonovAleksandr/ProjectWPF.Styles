@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Styles\TextBoxes\" />
-    <Folder Include="Styles\CheckBoxes\" />
   </ItemGroup>
 
 </Project>
