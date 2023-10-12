@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\Colors\" />
     <Folder Include="Styles\TextBoxes\" />
     <Folder Include="Styles\CheckBoxes\" />
   </ItemGroup>
